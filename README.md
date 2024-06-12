@@ -23,7 +23,7 @@ Pour cloner et utiliser cette application, vous aurez besoin de [Git](https://gi
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/sabinbajracharya/fluttery-todo.git
+$ git clone https://github.com/aminata054/flutter_todo.git
 
 # Go into the repository
 $ cd fluttery-todo
