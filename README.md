@@ -1,16 +1,36 @@
-# todo_app
+<h1 align="center">
+  Todo - Simple & Beautiful
+  <br>
+</h1>
 
-A new Flutter project.
 
-## Getting Started
+<p float="left">
+  <img src="screenshots/1.png" width="200" />
+  <img src="screenshots/2.png" width="200" /> 
+  <img src="screenshots/3.png" width="200" />
+  <img src="screenshots/4.png" width="200" />
+  <img src="screenshots/5.png" width="200" />
+  <img src="screenshots/6.png" width="200" />
+  <img src="screenshots/7.png" width="200" />
+  <img src="screenshots/8.png" width="200" />
+  <img src="screenshots/9.png" width="200" />
+  <img src="screenshots/10.png" width="200" />
+</p>
 
-This project is a starting point for a Flutter application.
+## Utilisation
 
-A few resources to get you started if this is your first Flutter project:
+Pour cloner et utiliser cette application, vous aurez besoin de [Git](https://git-scm.com) et [Flutter](https://flutter.dev/docs/get-started/install) installé sur votre pc. Ensuite suivez ces commandes : 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+# Clone this repository
+$ git clone https://github.com/sabinbajracharya/fluttery-todo.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Go into the repository
+$ cd fluttery-todo
+
+# Install dependencies
+$ flutter packages get
+
+# Run the app
+$ flutter run
+```
