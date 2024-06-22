@@ -17,6 +17,13 @@
   <img src="screenshots/10.png" width="200" />
 </p>
 
+## Réalisé par 
+Aminata BA </br>
+Aminata DIAGNE </br>
+Mariama DIOUM </br>
+Dié SYLLA </br>
+
+
 ## Utilisation
 
 Pour cloner et utiliser cette application, vous aurez besoin de [Git](https://git-scm.com) et [Flutter](https://flutter.dev/docs/get-started/install) installé sur votre pc. Ensuite suivez ces commandes : 
